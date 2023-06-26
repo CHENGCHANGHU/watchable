@@ -1,1 +1,1 @@
-console.log('JavaScript Package Template');
+export * from './watchable';
